@@ -2,7 +2,7 @@
   "id": "./",
   "name": "กาญนะจ๊ะบุรีทริป",
   "short_name": "กาญทริป",
-  "description": "Social travel PWA v1.0.3 พร้อม Firestore Realtime ที่ซ่อม Membership อัตโนมัติ และ Google Drive แบบไม่ใช้ Firebase Storage",
+  "description": "Social travel PWA v1.0.5 พร้อม Chat ที่ใช้งานจริง, Realtime payload repair, Map Admin UI และ Google Drive Trash",
   "lang": "th",
   "dir": "ltr",
   "start_url": "./",

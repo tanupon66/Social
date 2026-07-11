@@ -2,7 +2,7 @@
   "id": "./",
   "name": "กาญนะจ๊ะบุรีทริป",
   "short_name": "กาญทริป",
-  "description": "Final social travel PWA สำหรับ Feed, Story, Chat, GPS, Trip Games, Notification และ Shared Memory Hub",
+  "description": "Social travel PWA v1.0.1 พร้อมบัญชีจริง แผนที่ที่ Admin จัดการเอง Feed, Story, Chat, GPS และ Shared Memory Hub",
   "lang": "th",
   "dir": "ltr",
   "start_url": "./",

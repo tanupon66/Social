@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-Bv0tR_PF.js";import{Kt as t}from"./index-D7tzgL2_.js";var n=e();function r({children:e,tone:r=`neutral`,className:i}){return(0,n.jsx)(`span`,{className:t(`badge`,`badge-${r}`,i),children:e})}export{r as t};

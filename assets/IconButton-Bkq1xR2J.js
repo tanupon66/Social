@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-Bv0tR_PF.js";import{qt as t}from"./index-DH7EzP6c.js";var n=e();function r({label:e,children:r,variant:i=`surface`,badge:a,className:o,...s}){return(0,n.jsxs)(`button`,{className:t(`icon-button`,`icon-button-${i}`,o),"aria-label":e,title:e,...s,children:[r,a?(0,n.jsx)(`span`,{className:`icon-badge`,children:a>99?`99+`:a}):null]})}export{r as t};

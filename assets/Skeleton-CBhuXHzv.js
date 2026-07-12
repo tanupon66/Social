@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-Bv0tR_PF.js";import{an as t,qt as n}from"./index-DH7EzP6c.js";var r=t(`search`,[[`path`,{d:`m21 21-4.34-4.34`,key:`14j7rj`}],[`circle`,{cx:`11`,cy:`11`,r:`8`,key:`4ej97u`}]]),i=e();function a({className:e,width:t,height:r}){return(0,i.jsx)(`span`,{className:n(`skeleton`,e),style:{width:t,height:r},"aria-hidden":`true`})}export{r as n,a as t};

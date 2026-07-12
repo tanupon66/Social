@@ -2,7 +2,7 @@
   "id": "./",
   "name": "กาญนะจ๊ะบุรีทริป",
   "short_name": "กาญทริป",
-  "description": "Social travel PWA v1.0.8 พร้อม Realtime overlay แบบกระชับ การป้องกัน Android viewport blank และ Media status ที่ไม่บังภาพ",
+  "description": "Social travel PWA v1.0.9 พร้อม Realtime Auth session recovery, listener lifecycle protection และ PWA cache refresh",
   "lang": "th",
   "dir": "ltr",
   "start_url": "./",
